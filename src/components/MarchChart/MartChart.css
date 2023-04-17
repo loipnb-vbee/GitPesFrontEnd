@@ -1,0 +1,15 @@
+.Home {
+    margin: auto;
+    padding-top: 100px;
+}
+.Home{
+    background-color: #eeeee4;
+    font-style: initial;
+}
+.line {
+    width: 95% !important;
+    /* height: 0px; */
+    border: 0.5px solid rgba(224, 27, 27, 0.778);
+    margin: 15px;
+    display:inline-block;
+}

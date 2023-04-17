@@ -1,0 +1,5 @@
+.match {
+  background-color: rgb(147, 155, 157);
+  display: flex;
+  flex-direction: column;
+}

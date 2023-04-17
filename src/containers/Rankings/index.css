@@ -1,0 +1,10 @@
+.ranking {
+    margin-top: 100px;
+    text-align: center;
+}
+.navbar-ranking{
+    background-color: rgba(156, 190, 236, 0.582);
+    border: 5px;
+    border-color: red;
+}
+
